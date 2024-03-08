@@ -1,0 +1,10 @@
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\bin\Debug\lab3.exe.config
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\bin\Debug\lab3.exe
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\bin\Debug\lab3.pdb
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.Form1.resources
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.exe
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab3\lab3\lab3\obj\Debug\lab3.pdb
